@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    
+}
+.container {
+    background: #151515;
+	text-align: center;
+    height: 100vh;
+}
+.intro-content {
+    padding-top: 35vh;
+	vertical-align: middle;
+}
+.intro-content h1 {
+	color: #FFFFFF;
+	font-family: "poppins-medium", sans-serif;
+	font-size: 95px;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+.intro-content h5 {
+	color: #cc005f;
+	font-family: "poppins-bold", sans-serif;
+	font-size: 30px;
+    margin-top: 0;
+	margin-bottom: 0;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+.intro-content .intro-position {
+	font-family: "lora-regular", serif;
+	font-size: 15px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	color: #FFFFFF;
+}
+.intro-content .intro-position .divider {
+	padding: 0 8px;
+	color: rgba(255, 255, 255, 0.3);
+}
+.intro-social {
+	display: block;
+	position: absolute;
+	width: 100%;
+	left: 0;
+	bottom: 80px;
+	font-size: 35px;
+	margin: 0;
+	padding: 0;
+}
+.intro-social li {
+	display: inline-block;
+	margin: 0 20px;
+	padding: 0;
+}
+.intro-social li a, .intro-social li a:visited {
+	color: #FFFFFF;
+}
+.intro-social li a:hover, .intro-social li a:focus {
+	color: #cc005f;
+}
