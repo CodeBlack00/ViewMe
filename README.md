@@ -1,2 +1,3 @@
-# ViewMe
-Here, I am excited to showcase my coding skills! Thank you for taking the time to view it.
+Static Introduction Page
+
+This webpage showcases my general knowledge of coding with HTML, CSS and JavaScript. 
